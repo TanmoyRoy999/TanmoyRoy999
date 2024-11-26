@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Tanmoy 👋
 
-<!--
-**TanmoyRoy999/TanmoyRoy999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Web Developer** passionate about crafting scalable and robust server-side applications.
 
-Here are some ideas to get you started:
+### 🌟 Skills:
+- **Languages**: Java, SQL
+- **Frameworks**: Spring Boot, Hibernate
+- **Tools**: Git, SVN, Maven, Postman
+- **Databases**: MySQL, PostgreSQL, OracleSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanmoy-roy-914387151/)  
+- 📧 Email: itstanmoy88@gmail.com
+
+---
+
+Feel free to explore my repositories and connect with me :)
